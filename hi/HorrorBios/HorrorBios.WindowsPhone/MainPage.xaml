@@ -1,0 +1,38 @@
+﻿<Page
+    x:Class="HorrorBios.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:HorrorBios"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" Height="663.667" Width="396.667">
+
+    <Grid Margin="0,6.333,-5.333,-6.667" HorizontalAlignment="Left" Width="402" >
+        <Grid.Background>
+            <ImageBrush ImageSource="/Assets/hi.jpg">
+            </ImageBrush>
+        </Grid.Background>
+        <TextBlock HorizontalAlignment="center" TextWrapping="Wrap" VerticalAlignment="Top" Margin="20,280.72,-11.333,0" Height="218" Width="393.333" FontFamily="arial" FontWeight="ExtraBold" FontSize="25" Foreground="Red" RenderTransformOrigin="0.487,1.22" UseLayoutRounding="False" d:LayoutRounding="Auto" SelectionChanged="TextBlock_SelectionChanged">
+            <TextBlock.RenderTransform>
+                <CompositeTransform SkewY="0.68" TranslateY="3.26"/>
+            </TextBlock.RenderTransform>
+    		<Run Text="Prepare for the spookiest app ever!!!!!"/>
+    		<Run Text="                                       "/>
+    		<LineBreak/>
+    		<Run Text="Here you will learn the biographies of 4 of the "/>
+    		<LineBreak/>
+    		<Run Text="most famous horror movie Antagonists"/>
+        </TextBlock>
+        <Button Content="" HorizontalAlignment="Left" Margin="120,521,0,0" VerticalAlignment="Top" Height="73" Width="160" Click="Button_Click">
+            <Button.Background >
+                <ImageBrush  ImageSource="/Assets/start.png" />
+            </Button.Background>
+        </Button>
+        <TextBlock HorizontalAlignment="Left" Foreground="Ivory" FontSize="30" FontWeight="Bold" Margin="85.333,101.489,0,0" TextWrapping="Wrap" Text="Welcome to the world of Horror movie characters" VerticalAlignment="Top" Height="81.016" Width="232.968" RenderTransformOrigin="0.5,0.5" UseLayoutRounding="False" d:LayoutRounding="Auto">
+            <TextBlock.RenderTransform>
+                <CompositeTransform Rotation="0.331"/>
+            </TextBlock.RenderTransform>
+        </TextBlock>
+    </Grid>
+</Page>

@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MRMURPHY-PC</Machine>
+    <WindowsUser>Smurf</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>ad985b0e-98a1-447e-8c71-da4356b0f7b6</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>7BD931B7E7C6AF83816638B2DA85196529066D2DC48FF6115DDD6BD145204959</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>ad985b0e-98a1-447e-8c71-da4356b0f7b6_1.0.0.0_neutral__j6gmsmxpc90g4</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>ad985b0e-98a1-447e-8c71-da4356b0f7b6_j6gmsmxpc90g4!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>ad985b0e-98a1-447e-8c71-da4356b0f7b6</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Mr Murphy</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-12-12T16:12:11.422</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.Windows\bin\Debug\HorrorBios.Windows.exe">
+      <PackagePath>HorrorBios.Windows.exe</PackagePath>
+      <Modified>2015-12-12T16:12:10.479</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.Windows\Assets\hi.jpg">
+      <PackagePath>Assets\hi.jpg</PackagePath>
+      <Modified>2015-12-12T16:08:36.514</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-12-11T18:59:12.478</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-12-11T18:59:12.499</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-12-11T18:59:12.511</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.Windows\Assets\start.png">
+      <PackagePath>Assets\start.png</PackagePath>
+      <Modified>2015-12-12T16:09:54.724</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-12-11T18:59:12.518</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-12-12T16:10:27.070</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-12-12T16:12:10.199</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.Windows\bin\Debug\HorrorBios.Windows.xr.xml">
+      <PackagePath>HorrorBios.Windows.xr.xml</PackagePath>
+      <Modified>2015-12-12T16:12:10.170</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-12-12T16:12:10.911</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

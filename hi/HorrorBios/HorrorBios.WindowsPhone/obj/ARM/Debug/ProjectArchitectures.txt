@@ -1,0 +1,1 @@
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\HorrorBios.WindowsPhone.csproj;arm

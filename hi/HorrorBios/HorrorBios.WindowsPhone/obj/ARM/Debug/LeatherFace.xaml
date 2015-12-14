@@ -1,0 +1,29 @@
+﻿<Page
+    x:Class="HorrorBios.LeatherFace"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:HorrorBios"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <TextBlock FontSize="30" FontWeight="Bold" Foreground="DodgerBlue" HorizontalAlignment="Left" Margin="115,68,0,0" TextWrapping="Wrap" Text="LeatherFace" VerticalAlignment="Top" Height="40" Width="190"/>
+        <Image HorizontalAlignment="Left" Height="230" Margin="95,158,0,0" VerticalAlignment="Top" Width="210" Source="/Assets/Leather.png"/>
+        <Button x:ConnectionId='1' Content="" HorizontalAlignment="Left" Margin="10.059,-6.265,0,0" VerticalAlignment="Top"                      Height="72.688" Width="135.046" RenderTransformOrigin="0.5,0.5" UseLayoutRounding="False" d:LayoutRounding="Auto">
+            <Button.RenderTransform>
+                <CompositeTransform Rotation="0.568"/>
+            </Button.RenderTransform>
+            <Button.Background>
+                <ImageBrush ImageSource="/Assets/Prev2.png"></ImageBrush>
+            </Button.Background>
+        </Button>
+        <Button x:ConnectionId='2' Content="" HorizontalAlignment="Left" Margin="250,-10,0,0" VerticalAlignment="Top" Height="82" Width="140"                       >
+            <Button.Background>
+                <ImageBrush ImageSource="/Assets/Next1.png"></ImageBrush>
+            </Button.Background>
+        </Button>
+    </Grid>
+</Page>
+

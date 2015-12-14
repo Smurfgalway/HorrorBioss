@@ -1,0 +1,104 @@
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\bin\Release\App.xbf
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\bin\Release\Freddie Krueger.xbf
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\bin\Release\Jason.xbf
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\bin\Release\LeatherFace.xbf
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\bin\Release\MainPage.xbf
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\bin\Release\Mike.xbf
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\bin\Release\HorrorBios.WindowsPhone.xr.xml
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\bin\Release\HorrorBios.WindowsPhone.exe
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\bin\Release\HorrorBios.WindowsPhone.pdb
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\bin\Release\resources.pri
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\bin\Release\AppxManifest.xml
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\bin\Release\HorrorBios.WindowsPhone.build.appxrecipe
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\obj\Release\App.g.i.cs
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\obj\Release\App.g.cs
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\obj\Release\Freddie Krueger.g.i.cs
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\obj\Release\Freddie Krueger.g.cs
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\obj\Release\Jason.g.i.cs
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\obj\Release\Jason.g.cs
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\obj\Release\LeatherFace.g.i.cs
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\obj\Release\LeatherFace.g.cs
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\obj\Release\MainPage.g.i.cs
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\obj\Release\MainPage.g.cs
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\obj\Release\Mike.g.i.cs
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\obj\Release\Mike.g.cs
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\obj\Release\XamlTypeInfo.g.cs
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\obj\Release\App.xaml
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\obj\Release\Freddie Krueger.xaml
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\obj\Release\Jason.xaml
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\obj\Release\LeatherFace.xaml
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\obj\Release\MainPage.xaml
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\obj\Release\Mike.xaml
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\obj\Release\App.xbf
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\obj\Release\Freddie Krueger.xbf
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\obj\Release\Jason.xbf
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\obj\Release\LeatherFace.xbf
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\obj\Release\MainPage.xbf
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\obj\Release\Mike.xbf
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\obj\Release\XamlSaveStateFile.xml
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\obj\Release\HorrorBios.WindowsPhone.exe
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\obj\Release\HorrorBios.WindowsPhone.pdb
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\obj\Release\priconfig.xml
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\obj\Release\priconfig.xml.intermediate
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\obj\Release\layout.resfiles
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\obj\Release\layout.resfiles.intermediate
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\obj\Release\resources.resfiles
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\obj\Release\resources.resfiles.intermediate
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\obj\Release\pri.resfiles
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\obj\Release\pri.resfiles.intermediate
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\obj\Release\qualifiers.txt
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\obj\Release\qualifiers.txt.intermediate
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\obj\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\obj\Release\ProjectArchitectures.txt
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\bin\Release\App.xbf
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\bin\Release\Freddie Krueger.xbf
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\bin\Release\Jason.xbf
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\bin\Release\LeatherFace.xbf
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\bin\Release\MainPage.xbf
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\bin\Release\Mike.xbf
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\bin\Release\HorrorBios.WindowsPhone.xr.xml
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\bin\Release\HorrorBios.WindowsPhone.exe
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\bin\Release\HorrorBios.WindowsPhone.pdb
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\bin\Release\resources.pri
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\bin\Release\AppxManifest.xml
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\bin\Release\HorrorBios.WindowsPhone.build.appxrecipe
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\obj\Release\App.g.i.cs
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\obj\Release\App.g.cs
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\obj\Release\Freddie Krueger.g.i.cs
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\obj\Release\Freddie Krueger.g.cs
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\obj\Release\Jason.g.i.cs
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\obj\Release\Jason.g.cs
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\obj\Release\LeatherFace.g.i.cs
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\obj\Release\LeatherFace.g.cs
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\obj\Release\MainPage.g.i.cs
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\obj\Release\MainPage.g.cs
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\obj\Release\Mike.g.i.cs
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\obj\Release\Mike.g.cs
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\obj\Release\XamlTypeInfo.g.cs
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\obj\Release\App.xaml
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\obj\Release\Freddie Krueger.xaml
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\obj\Release\Jason.xaml
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\obj\Release\LeatherFace.xaml
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\obj\Release\MainPage.xaml
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\obj\Release\Mike.xaml
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\obj\Release\App.xbf
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\obj\Release\Freddie Krueger.xbf
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\obj\Release\Jason.xbf
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\obj\Release\LeatherFace.xbf
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\obj\Release\MainPage.xbf
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\obj\Release\Mike.xbf
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\obj\Release\XamlSaveStateFile.xml
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\obj\Release\HorrorBios.WindowsPhone.exe
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\obj\Release\HorrorBios.WindowsPhone.pdb
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\obj\Release\priconfig.xml
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\obj\Release\priconfig.xml.intermediate
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\obj\Release\layout.resfiles
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\obj\Release\layout.resfiles.intermediate
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\obj\Release\resources.resfiles
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\obj\Release\resources.resfiles.intermediate
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\obj\Release\pri.resfiles
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\obj\Release\pri.resfiles.intermediate
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\obj\Release\qualifiers.txt
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\obj\Release\qualifiers.txt.intermediate
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\obj\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\obj\Release\ProjectArchitectures.txt

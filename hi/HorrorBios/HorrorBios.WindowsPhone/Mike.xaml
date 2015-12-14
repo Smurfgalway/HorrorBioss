@@ -1,0 +1,111 @@
+﻿<Page
+    x:Class="HorrorBios.Mike"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:HorrorBios"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <TextBlock FontSize="30" FontWeight="Bold" Foreground="Ivory" HorizontalAlignment="Left" Margin="115,68,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="40" Width="225" SelectionChanged="TextBlock_SelectionChanged">
+        	<Run Text="M"/>
+        	<Run Text="ichael "/>
+        	<Run Text=" Myers"/>
+        </TextBlock>
+        <Image HorizontalAlignment="Left" Height="225" Margin="65,168,0,0" VerticalAlignment="Top" Width="275" Source="/Assets/Mike.jpg"/>
+        <Button Content="" HorizontalAlignment="Left" Margin="10.028,0.075,0,0" VerticalAlignment="Top" Click="Button_Click" Height="66.348" Width="135.046" RenderTransformOrigin="0.5,0.5" UseLayoutRounding="False" d:LayoutRounding="Auto">
+            <Button.RenderTransform>
+                <CompositeTransform Rotation="0.568"/>
+            </Button.RenderTransform>
+            <Button.Background>
+                <ImageBrush ImageSource="/Assets/Previous.gif"></ImageBrush>
+            </Button.Background>
+        </Button>
+        <Button Content="" HorizontalAlignment="Left" Margin="245,0,0,0" VerticalAlignment="Top" Height="73" Width="145" Click="Button_Click_1">
+            <Button.Background>
+                <ImageBrush ImageSource="/Assets/home.gif"></ImageBrush>
+            </Button.Background>
+        </Button>
+        <ScrollViewer HorizontalAlignment="Left" Height="162" Margin="65,468,0,0" VerticalAlignment="Top" Width="275">
+            <TextBlock TextWrapping="Wrap" Width="270" FontSize="20">
+            	<Span>
+            		<Run Text="Michael Myers is a serial killer who was admitted to asylum as a kid as he hand murdered his sister's boyfriend and his older sistser, Michael was a very disturbed little boy. Michael spent many years in the asylum till on one fateful week near Halloween he broke out and wearing a Halloween mask he went on a search for his baby sister. Being a lumbering 7fish giant with unbelievable strength and straight murderous intention nothing would stop Michael from his hunt and every time he comes back he is just a murderous as last time."/>
+            	</Span>
+            	<LineBreak/>
+            	<LineBreak/>
+            	<Span>
+            		<Run Text="Mike's appearance never changes: "/>
+            	</Span>
+            	<LineBreak/>
+            	<Span>
+            		<Run Text="Height 7ft"/>
+            	</Span>
+            	<LineBreak/>
+            	<Span>
+            		<Run Text="Age: between 20- 30"/>
+            	</Span>
+            	<LineBreak/>
+            	<Span>
+            		<Run Text="Build: large and strong"/>
+            	</Span>
+            	<LineBreak/>
+            	<Span>
+            		<Run Text="Other defining characteristics:"/>
+            	</Span>
+            	<LineBreak/>
+            	<Span>
+            		<Run Text="Wears a jumpsuit with the same Halloween mask, always comes back on Halloween, inhuman strength, mute, ruthless aggression"/>
+            	</Span>
+            	<LineBreak/>
+            	<LineBreak/>
+            	<Span>
+            		<Run Text="Films:"/>
+            	</Span>
+            	<LineBreak/>
+            	<Span>
+            		<Run Text="Halloween"/>
+            	</Span>
+            	<LineBreak/>
+            	<Span>
+            		<Run Text="Halloween 2"/>
+            	</Span>
+            	<LineBreak/>
+            	<Span>
+            		<Run Text="Halloween 3: Season of the witch"/>
+            	</Span>
+            	<LineBreak/>
+            	<Span>
+            		<Run Text="Halloween 4: The Return of Michael Myers"/>
+            	</Span>
+            	<LineBreak/>
+            	<Span>
+            		<Run Text="Halloween 5: The Revenge of Michael Myers"/>
+            	</Span>
+            	<LineBreak/>
+            	<Span>
+            		<Run Text="Halloween: The curse of Michael Myers"/>
+            	</Span>
+            	<LineBreak/>
+            	<Span>
+            		<Run Text="Halloween H20: 20 years later"/>
+            	</Span>
+            	<LineBreak/>
+            	<Span>
+            		<Run Text="Halloween: Resurrection"/>
+            	</Span>
+            	<LineBreak/>
+            	<Span>
+            		<Run Text="Halloween (2007 remake)"/>
+            	</Span>
+            	<LineBreak/>
+            	<Span>
+            		<Run Text="Halloween 2 (2009 remake)"/>
+            	</Span>
+            	<LineBreak/>
+            	<Run/>
+            </TextBlock>
+        </ScrollViewer>
+    </Grid>
+</Page>

@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-T3HEI6C</Machine>
+    <WindowsUser>Deppers</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows Phone 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>3ecb803a-4602-498f-849d-9e9d11d6007f</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Deppers\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Deppers\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Deppers\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\bin\Debug\HorrorBios.WindowsPhone.exe">
+      <PackagePath>HorrorBios.WindowsPhone.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deppers\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\Assets\Freddy.jpg">
+      <PackagePath>Assets\Freddy.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deppers\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\Assets\hi.jpg">
+      <PackagePath>Assets\hi.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deppers\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\Assets\Hr.jpg">
+      <PackagePath>Assets\Hr.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deppers\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\Assets\jason-voorhees.jpg">
+      <PackagePath>Assets\jason-voorhees.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deppers\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\Assets\mike.jpg">
+      <PackagePath>Assets\mike.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deppers\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\Assets\home.gif">
+      <PackagePath>Assets\home.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deppers\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\Assets\Previous.gif">
+      <PackagePath>Assets\Previous.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deppers\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\Assets\Leather.png">
+      <PackagePath>Assets\Leather.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deppers\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deppers\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\Assets\Next1.png">
+      <PackagePath>Assets\Next1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deppers\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\Assets\Next2.png">
+      <PackagePath>Assets\Next2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deppers\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\Assets\Prev2.png">
+      <PackagePath>Assets\Prev2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deppers\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deppers\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deppers\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deppers\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\Assets\start.png">
+      <PackagePath>Assets\start.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deppers\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deppers\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deppers\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\bin\Debug\HorrorBios.WindowsPhone.xr.xml">
+      <PackagePath>HorrorBios.WindowsPhone.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deppers\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deppers\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\bin\Debug\Freddie Krueger.xbf">
+      <PackagePath>Freddie Krueger.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deppers\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\bin\Debug\Jason.xbf">
+      <PackagePath>Jason.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deppers\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\bin\Debug\LeatherFace.xbf">
+      <PackagePath>LeatherFace.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deppers\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deppers\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\bin\Debug\Mike.xbf">
+      <PackagePath>Mike.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deppers\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.WindowsPhone\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

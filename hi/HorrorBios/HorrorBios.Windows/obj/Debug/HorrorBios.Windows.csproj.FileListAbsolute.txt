@@ -1,0 +1,96 @@
+C:\Users\Mr Murphy\Desktop\lab 4\HorrorBios\HorrorBios\HorrorBios.Windows\bin\Debug\App.xbf
+C:\Users\Mr Murphy\Desktop\lab 4\HorrorBios\HorrorBios\HorrorBios.Windows\bin\Debug\MainPage.xbf
+C:\Users\Mr Murphy\Desktop\lab 4\HorrorBios\HorrorBios\HorrorBios.Windows\bin\Debug\HorrorBios.Windows.xr.xml
+C:\Users\Mr Murphy\Desktop\lab 4\HorrorBios\HorrorBios\HorrorBios.Windows\bin\Debug\HorrorBios.Windows.exe
+C:\Users\Mr Murphy\Desktop\lab 4\HorrorBios\HorrorBios\HorrorBios.Windows\bin\Debug\HorrorBios.Windows.pdb
+C:\Users\Mr Murphy\Desktop\lab 4\HorrorBios\HorrorBios\HorrorBios.Windows\bin\Debug\resources.pri
+C:\Users\Mr Murphy\Desktop\lab 4\HorrorBios\HorrorBios\HorrorBios.Windows\bin\Debug\AppxManifest.xml
+C:\Users\Mr Murphy\Desktop\lab 4\HorrorBios\HorrorBios\HorrorBios.Windows\bin\Debug\HorrorBios.Windows.build.appxrecipe
+C:\Users\Mr Murphy\Desktop\lab 4\HorrorBios\HorrorBios\HorrorBios.Windows\obj\Debug\App.g.i.cs
+C:\Users\Mr Murphy\Desktop\lab 4\HorrorBios\HorrorBios\HorrorBios.Windows\obj\Debug\App.g.cs
+C:\Users\Mr Murphy\Desktop\lab 4\HorrorBios\HorrorBios\HorrorBios.Windows\obj\Debug\MainPage.g.i.cs
+C:\Users\Mr Murphy\Desktop\lab 4\HorrorBios\HorrorBios\HorrorBios.Windows\obj\Debug\MainPage.g.cs
+C:\Users\Mr Murphy\Desktop\lab 4\HorrorBios\HorrorBios\HorrorBios.Windows\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Mr Murphy\Desktop\lab 4\HorrorBios\HorrorBios\HorrorBios.Windows\obj\Debug\App.xaml
+C:\Users\Mr Murphy\Desktop\lab 4\HorrorBios\HorrorBios\HorrorBios.Windows\obj\Debug\App.xbf
+C:\Users\Mr Murphy\Desktop\lab 4\HorrorBios\HorrorBios\HorrorBios.Windows\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Mr Murphy\Desktop\lab 4\HorrorBios\HorrorBios\HorrorBios.Windows\obj\Debug\MainPage.xaml
+C:\Users\Mr Murphy\Desktop\lab 4\HorrorBios\HorrorBios\HorrorBios.Windows\obj\Debug\MainPage.xbf
+C:\Users\Mr Murphy\Desktop\lab 4\HorrorBios\HorrorBios\HorrorBios.Windows\obj\Debug\HorrorBios.Windows.exe
+C:\Users\Mr Murphy\Desktop\lab 4\HorrorBios\HorrorBios\HorrorBios.Windows\obj\Debug\HorrorBios.Windows.pdb
+C:\Users\Mr Murphy\Desktop\lab 4\HorrorBios\HorrorBios\HorrorBios.Windows\obj\Debug\priconfig.xml
+C:\Users\Mr Murphy\Desktop\lab 4\HorrorBios\HorrorBios\HorrorBios.Windows\obj\Debug\priconfig.xml.intermediate
+C:\Users\Mr Murphy\Desktop\lab 4\HorrorBios\HorrorBios\HorrorBios.Windows\obj\Debug\layout.resfiles
+C:\Users\Mr Murphy\Desktop\lab 4\HorrorBios\HorrorBios\HorrorBios.Windows\obj\Debug\layout.resfiles.intermediate
+C:\Users\Mr Murphy\Desktop\lab 4\HorrorBios\HorrorBios\HorrorBios.Windows\obj\Debug\resources.resfiles
+C:\Users\Mr Murphy\Desktop\lab 4\HorrorBios\HorrorBios\HorrorBios.Windows\obj\Debug\resources.resfiles.intermediate
+C:\Users\Mr Murphy\Desktop\lab 4\HorrorBios\HorrorBios\HorrorBios.Windows\obj\Debug\pri.resfiles
+C:\Users\Mr Murphy\Desktop\lab 4\HorrorBios\HorrorBios\HorrorBios.Windows\obj\Debug\pri.resfiles.intermediate
+C:\Users\Mr Murphy\Desktop\lab 4\HorrorBios\HorrorBios\HorrorBios.Windows\obj\Debug\qualifiers.txt
+C:\Users\Mr Murphy\Desktop\lab 4\HorrorBios\HorrorBios\HorrorBios.Windows\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Mr Murphy\Desktop\lab 4\HorrorBios\HorrorBios\HorrorBios.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Mr Murphy\Desktop\lab 4\HorrorBios\HorrorBios\HorrorBios.Windows\obj\Debug\ProjectArchitectures.txt
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.Windows\obj\Debug\App.g.i.cs
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.Windows\obj\Debug\App.g.cs
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.Windows\obj\Debug\MainPage.g.i.cs
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.Windows\obj\Debug\MainPage.g.cs
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.Windows\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.Windows\obj\Debug\App.xaml
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.Windows\obj\Debug\App.xbf
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.Windows\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.Windows\obj\Debug\MainPage.xaml
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.Windows\obj\Debug\MainPage.xbf
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.Windows\obj\Debug\HorrorBios.Windows.exe
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.Windows\bin\Debug\App.xbf
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.Windows\bin\Debug\MainPage.xbf
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.Windows\bin\Debug\HorrorBios.Windows.xr.xml
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.Windows\bin\Debug\HorrorBios.Windows.exe
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.Windows\bin\Debug\HorrorBios.Windows.pdb
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.Windows\bin\Debug\resources.pri
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.Windows\bin\Debug\AppxManifest.xml
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.Windows\bin\Debug\HorrorBios.Windows.build.appxrecipe
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.Windows\obj\Debug\HorrorBios.Windows.pdb
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.Windows\obj\Debug\priconfig.xml
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.Windows\obj\Debug\priconfig.xml.intermediate
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.Windows\obj\Debug\layout.resfiles
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.Windows\obj\Debug\layout.resfiles.intermediate
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.Windows\obj\Debug\resources.resfiles
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.Windows\obj\Debug\resources.resfiles.intermediate
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.Windows\obj\Debug\pri.resfiles
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.Windows\obj\Debug\pri.resfiles.intermediate
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.Windows\obj\Debug\qualifiers.txt
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.Windows\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Mr Murphy\Desktop\HorrorBios\HorrorBios\HorrorBios.Windows\obj\Debug\ProjectArchitectures.txt
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.Windows\obj\Debug\App.g.i.cs
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.Windows\obj\Debug\App.g.cs
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.Windows\obj\Debug\MainPage.g.i.cs
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.Windows\obj\Debug\MainPage.g.cs
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.Windows\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.Windows\obj\Debug\App.xaml
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.Windows\obj\Debug\App.xbf
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.Windows\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.Windows\obj\Debug\MainPage.xaml
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.Windows\obj\Debug\MainPage.xbf
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.Windows\obj\Debug\HorrorBios.Windows.exe
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.Windows\bin\Debug\App.xbf
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.Windows\bin\Debug\MainPage.xbf
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.Windows\bin\Debug\HorrorBios.Windows.xr.xml
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.Windows\bin\Debug\HorrorBios.Windows.exe
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.Windows\bin\Debug\HorrorBios.Windows.pdb
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.Windows\bin\Debug\resources.pri
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.Windows\bin\Debug\AppxManifest.xml
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.Windows\bin\Debug\HorrorBios.Windows.build.appxrecipe
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.Windows\obj\Debug\HorrorBios.Windows.pdb
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.Windows\obj\Debug\priconfig.xml
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.Windows\obj\Debug\priconfig.xml.intermediate
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.Windows\obj\Debug\layout.resfiles
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.Windows\obj\Debug\layout.resfiles.intermediate
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.Windows\obj\Debug\resources.resfiles
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.Windows\obj\Debug\resources.resfiles.intermediate
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.Windows\obj\Debug\pri.resfiles
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.Windows\obj\Debug\pri.resfiles.intermediate
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.Windows\obj\Debug\qualifiers.txt
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.Windows\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Mr Murphy\Desktop\Stephens app\HorrorBios\HorrorBios\HorrorBios.Windows\obj\Debug\ProjectArchitectures.txt
